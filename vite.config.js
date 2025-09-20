@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/netflix-clone/",  // 👈 yeh line add karo
+  base: "/todoList/",  // 👈 yeh line add karo
 })
