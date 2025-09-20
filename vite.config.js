@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-  ],
+  ],
+  base: "/netflix-clone/",  // 👈 yeh line add karo
 })
